@@ -1,0 +1,25 @@
+{
+  "name": "babel-plugin-tailwind-components-with-emotion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@babel/types": "7.0.0",
+    "babel-plugin-macros": "2.4.0",
+    "babel-preset-react": "6.24.1",
+    "emotion": "9.2.8",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-emotion": "9.2.8",
+    "tailwind.macro": "0.5.3-codesandbox",
+    "tailwindcss": "0.6.5"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
